@@ -1,4 +1,5 @@
 ### Hi there 👋
+> ##### **TODO** : add presentation and contact for the profile repository
 
 <!--
 **rgdlr/rgdlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
