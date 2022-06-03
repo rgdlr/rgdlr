@@ -1,3 +1,3 @@
-<main align="center">
+<div align="center">
     <img alt="rick" src="./assets/rick.gif" />
-</main>
+</div>
